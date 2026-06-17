@@ -1,23 +1,12 @@
 # 🧠 Memora – Smart Notes & Flashcards Hub
 
-<div align="center">
-  <br/>
-  <a href="https://memora-app-demo.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-Test_Now!-success?style=for-the-badge&logo=vercel" alt="Live Demo" />
-  </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/ArcheeJaiswal/Memora/actions"><img src="https://img.shields.io/github/actions/workflow/status/ArcheeJaiswal/Memora/ci.yml?branch=main" alt="Build"/></a>
-  <a href="https://github.com/ArcheeJaiswal/Memora/stargazers"><img src="https://img.shields.io/github/stars/ArcheeJaiswal/Memora?style=social" alt="GitHub stars"/></a>
-  <a href="https://github.com/ArcheeJaiswal/Memora/issues"><img src="https://img.shields.io/github/issues/ArcheeJaiswal/Memora" alt="Issues"/></a>
-  <a href="https://github.com/ArcheeJaiswal/Memora/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ArcheeJaiswal/Memora" alt="License"/></a>
-</div>
+
 
 > **Your ultimate MERN-stack companion for capturing knowledge, creating flashcards, and mastering subjects with AI-driven spaced repetition.**
 
 ---
 
-![Memora dashboard](docs/screenshot-dashboard.png)
+![Memora dashboard](docs/4Dashboard_top.png)
 
 <p align="center">
   <em>Distraction‑free interface · Full‑stack TypeScript · Vite + React Powered</em>
@@ -97,13 +86,6 @@ PORT=5000
 │   └── utils/         # Backend helpers (auth, email, etc.)
 └── docs/              # Screenshots / assets
 ```
-
----
-
-## 🚀 Live Demo
-
-**Test the app right now!**  
-🔗 [Memora Live Demo](https://memora-app-demo.vercel.app) *(Note: this is a placeholder link for your future deployment)*
 
 ---
 
