@@ -21,10 +21,41 @@
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | **Knowledge Base**  | 📝 Rich‑text **note editor**  ·  🗂️ **Folder / tag** organisation · 📑 **PDF import** & viewer                                       |
 | **Active Recall**   | 🧠 **Flashcard generator** instantly creates cards from notes · ⚡ **Spaced repetition** queue for optimal memory retention         |
+| **Productivity**    | 🍅 Built-in **Pomodoro Timer** for deep work sessions · 🕒 Track focus and take scheduled breaks                                        |
 | **Insights**        | 📊 **Advanced dashboard** – dynamic charts (day / month / year, category‑wise) to visualize your study streaks                      |
-| **Smart Assistant** | 🤖 **AI summaries** for long documents · 🔍 Semantic **global search** across all your content                                            |
-| **User Experience** | 🌓 **Light / Dark mode** support · ⌨️ Blazing-fast **search & filters**                                                                 |
+| **User Experience** | 🌙 **Beautiful Dark mode** by default · ⌨️ Blazing-fast **search & filters** for your notes                                           |
 | **Security & Sync** | 🔑 Secure **JWT auth** + refresh tokens · ☁️ Real-time cloud sync with MongoDB                                                          |
+
+---
+
+## 📸 App Gallery
+
+<table border="0">
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center"><b>🍅 Pomodoro Timer</b></div>
+      <br/>
+      <img src="docs/6DashboardPomodoro.png" alt="Pomodoro Timer" width="100%"/>
+    </td>
+    <td valign="top" width="50%">
+      <div align="center"><b>⚡ Spaced Repetition Queue</b></div>
+      <br/>
+      <img src="docs/14RevisionQueue.png" alt="Revision Queue" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center"><b>📑 Built-in PDF Viewer</b></div>
+      <br/>
+      <img src="docs/13ViewPdf.png" alt="PDF Viewer" width="100%"/>
+    </td>
+    <td valign="top" width="50%">
+      <div align="center"><b>📊 Detailed Analytics</b></div>
+      <br/>
+      <img src="docs/17Analytics.png" alt="Analytics" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
