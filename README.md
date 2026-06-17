@@ -1,11 +1,6 @@
 # 🧠 Memora – Smart Notes & Flashcards Hub
 
 <div align="center">
-  <br/>
-  <a href="https://github.com/ArcheeJaiswal/Memora/actions"><img src="https://img.shields.io/github/actions/workflow/status/ArcheeJaiswal/Memora/ci.yml?branch=main" alt="Build"/></a>
-  <a href="https://github.com/ArcheeJaiswal/Memora/stargazers"><img src="https://img.shields.io/github/stars/ArcheeJaiswal/Memora?style=social" alt="GitHub stars"/></a>
-  <a href="https://github.com/ArcheeJaiswal/Memora/issues"><img src="https://img.shields.io/github/issues/ArcheeJaiswal/Memora" alt="Issues"/></a>
-  <a href="https://github.com/ArcheeJaiswal/Memora/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ArcheeJaiswal/Memora" alt="License"/></a>
 </div>
 
 > **Your ultimate MERN-stack companion for capturing knowledge, creating flashcards, and mastering subjects with AI-driven spaced repetition.**
