@@ -6,7 +6,8 @@
 
 ---
 
-![Memora dashboard](docs/4Dashboard_top.png)
+![Memora dashboard - Top](docs/4Dashboard_top.png)
+![Memora dashboard - Bottom](docs/5Dashboard_bottom.png)
 
 <p align="center">
   <em>Distraction‑free interface · Full‑stack TypeScript · Vite + React Powered</em>
